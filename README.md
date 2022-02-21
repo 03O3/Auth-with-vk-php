@@ -16,7 +16,8 @@
 
 На скрине ниже всё есть
 
-![image](https://user-images.githubusercontent.com/89999325/155029562-df4a13d6-3895-458d-ace0-10015cd6e462.png)
+![image](https://user-images.githubusercontent.com/89999325/155032909-68eb56bc-84df-4ee5-84fc-44f69f1049c5.png)
+
 
 После всех заполнений ваш код должен выглядить вот так
 
