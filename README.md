@@ -1,6 +1,6 @@
 # Туториал
 
-#Этап 1
+# Этап 1
 И так для начало нам нужно создать приложение через которое будет происходить авторизация
 
 Переходим сюда -> https://vk.com/editapp?act=create
@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/89999325/155029395-69609bbe-a6ee-46ad-a4e6-c5d2d8ee1e29.png)
 
 
-#Этап 2
+# Этап 2
 
 Заходим в vendor/auth.php
 
