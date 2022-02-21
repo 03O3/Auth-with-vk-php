@@ -3,8 +3,8 @@
 
 Переходим сюда -> https://vk.com/editapp?act=create
 И пишем как у меня, ссылка на сайт указываете вашу
-![image](https://user-images.githubusercontent.com/89999325/155029395-69609bbe-a6ee-46ad-a4e6-c5d2d8ee1e29.png)
 
+![image](https://user-images.githubusercontent.com/89999325/155033332-bd1bbad3-f0b5-4bc6-a08e-1e21d08efbfc.png)
 
 # Этап 2
 
